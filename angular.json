@@ -123,5 +123,10 @@
       }
     }
   },
-  "defaultProject": "root"
+  "defaultProject": "root",
+  "schematics": {
+    "@nrwl/schematics:component": {
+      "styleext": "scss"
+    }
+  }
 }
